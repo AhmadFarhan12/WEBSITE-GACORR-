@@ -23,6 +23,12 @@ website jual makanan produk LEADER
     <p>Temukan berbagai produk terbaik di sini.</p>
     <a href="products.html" class="btn">Lihat Produk</a>
 </section>
+<div class="product-card">
+    <img src="URL-GAMBAR" alt="Nama Produk">
+    <h3>Nama Produk</h3>
+    <p>Harga: Rp ...</p>
+    <a href="https://wa.me/NOMOR-KAMU?text=Halo,%20saya%20mau%20beli%20Produk%20..." class="btn">Beli via WhatsApp</a>
+</div>
 
 <footer>
     <p>© 2025 Toko Online Saya</p>
